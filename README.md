@@ -88,11 +88,23 @@ https://user-images.githubusercontent.com/120432007/230868395-6f87f3cb-1b93-40d6
 - Basic 단계에서 만들어놓은 App들에 Navigation, Modality, Combine을 이용하여 기능을 추가한 App입니다.
 - MVC Pattern으로 만들어진 App들을 MVVM Pattern으로 리펙토링을 진행하였습니다.
 - 복잡한 디자인이 도입됨에 따라 UICollectionViewDataSource, UICollectionViewFlowLayout으로 이루어진 List와 Grid를 UICollectionViewDiffableDataSource, UICollectionViewCompositionalLayout, Snapshot의 구성으로 리펙토링을 진행하였습니다.
-### AppleFramework_Modality
+### AppleFramework_1_DiffableDatasource
+- Basic에서 만들어둔 "AppleFramework" App의 List와 Grid를 UICollectionViewDiffableDataSource, UICollectionViewCompositionalLayout, Snapshot의 구성으로 리펙토링을 진행하였습니다.
+
+------------------------------------------------------------------------------------------------------------------
+### AppleFramework_2_Modality
 - Grid형태의 AppleFramework만 보여주던 App에 Modality 기능을 넣어 해당 Framework에 대한 설명 View를 표시하게 추가함.
-- 설명 View에서 "Learn More" 버튼을 클릭 시 App에 연동해놓은 Safari로 연결하여 해당 Framework의 내용에 대해 더 상세히 설명이 되어있는 페이지로 연결함.
+- 설명 View에서 "Learn More" 버튼을 클릭 시 App에 연동해놓은 Safari로 연결하여 해당 Framework의 내용에 대해 더 상세히 설명이 되어있는 Apple Developer Page로 연결함.
 
 https://user-images.githubusercontent.com/120432007/230852705-2c4b086a-ee0d-4c44-aa2c-b98baccd9597.mov
+
+------------------------------------------------------------------------------------------------------------------
+### AppleFramework_3_Combine
+- Modality 기능을 추가한 AppleFramework App을 Combine을 활용하여 리펙토링을 진행함.
+
+------------------------------------------------------------------------------------------------------------------
+### AppleFramework_4_MVVM
+- MVC Pattern을 MVVM Pattern으로 리펙토링을 진행함.
 
 ------------------------------------------------------------------------------------------------------------------
 ### HeadSpaceFocus_Navigation&Modality
@@ -101,12 +113,16 @@ https://user-images.githubusercontent.com/120432007/230852705-2c4b086a-ee0d-4c44
 https://user-images.githubusercontent.com/120432007/230853487-7e138e34-82f3-487d-9a05-9781a155bf9b.mov
 
 ------------------------------------------------------------------------------------------------------------------
-### AppleFramework_Combine
-- Modality 기능을 추가한 AppleFramework App을 Combine을 활용하여 리펙토링을 진행함
+### GithubUserSearch_1_MVVM
+- 만들어두었던 "GithubUserSearch" MVC Pattern으로 이루어진 App을 MVVC Pattern으로 리펙토링 진행함
+
+------------------------------------------------------------------------------------------------------------------
+### GithubUserProfile_1_MVVM
+- 만들어두었던 "GithubUserProfile" MVC Pattern을 이루어지 App을 MVVC Pattern으로 리펙토링 진행함
 
 ------------------------------------------------------------------------------------------------------------------
 # Upper Intermediate
-- Intermediate까지의 내용을 종합하여 이미 출시되어있는 각 App들의 기능들을 클론 코딩 진행하였습니다.
+- Intermediate까지의 내용을 종합하여 이미 출시되어있는 각 App들의 기능 중 일부를 클론 코딩 진행하였습니다.
 ### TossBenefitTab
 "토스" App의 헤택 Tab을 구현해보았습니다.
 
