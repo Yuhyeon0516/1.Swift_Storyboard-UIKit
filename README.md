@@ -79,13 +79,13 @@ https://user-images.githubusercontent.com/120432007/230865935-656c8966-48fd-47be
 
 ------------------------------------------------------------------------------------------------------------------
 ### StockRank
-"Toss" App의 주식 순위 View를 구현하였습니다.
+"토스" App의 주식 순위 View를 구현하였습니다.
 
 https://user-images.githubusercontent.com/120432007/230868395-6f87f3cb-1b93-40d6-8778-fa527ce059dc.mov
 
 ------------------------------------------------------------------------------------------------------------------
 # Intermediate
-- Basic 단계에서 만들어놓은 App들에 Navigation, Modality를 이용하여 기능을 추가한 App입니다.
+- Basic 단계에서 만들어놓은 App들에 Navigation, Modality, Combine을 이용하여 기능을 추가한 App입니다.
 - MVC Pattern으로 만들어진 App들을 MVVM으로 리펙토링을 진행하였습니다.
 - 복잡한 디자인이 도입됨에 따라 UICollectionViewDataSource, UICollectionViewFlowLayout으로 이루어진 List와 Grid를 UICollectionViewDiffableDataSource, UICollectionViewCompositionalLayout, Snapshot의 구성으로 리펙토링을 진행하였습니다.
 ### AppleFramework_Modality
@@ -102,12 +102,17 @@ https://user-images.githubusercontent.com/120432007/230853487-7e138e34-82f3-487d
 
 ------------------------------------------------------------------------------------------------------------------
 # Upper Intermediate
+- Intermediate까지의 내용을 종합하여 이미 출시되어있는 각 App들의 기능들을 클론 코딩 진행하였습니다.
 ### TossBenefitTab
-"Toss" App의 헤택 Tab을 구현해보았습니다.
+"토스" App의 헤택 Tab을 구현해보았습니다.
 
 https://user-images.githubusercontent.com/120432007/230868840-5e4121e7-aedd-45e3-9ebf-d24b9e0e00bf.mov
 
 ------------------------------------------------------------------------------------------------------------------
+### CarrotHomeTab
+"당근마켓" App의 Home Tab을 구현해보았습니다.
+
+https://user-images.githubusercontent.com/120432007/230873337-2a184c20-550e-4a2e-b159-dc15f4ce40b1.mov
 
 ------------------------------------------------------------------------------------------------------------------
 # Advanced
