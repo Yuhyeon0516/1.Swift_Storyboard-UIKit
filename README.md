@@ -8,6 +8,9 @@ Network의 기능을 연습하던 Playground입니다.
 
 ------------------------------------------------------------------------------------------------------------------
 # Basic
+- Basic은 Model, View, Controller를 주로 이루어진 MVC Pattern으로 구성된 가장 기초가 되는 App입니다.
+- Github API 호출 과 Kingfisher PKG 활용 기능까지 추가되어있습니다.
+
 ### SymbollRoller
 SymbollRoller는 "Reload" 버튼을 눌렀을때 Random하게 날씨 이모티콘 및 날씨의 이름이 표시되는 App입니다.
 
@@ -81,13 +84,10 @@ https://user-images.githubusercontent.com/120432007/230865935-656c8966-48fd-47be
 https://user-images.githubusercontent.com/120432007/230868395-6f87f3cb-1b93-40d6-8778-fa527ce059dc.mov
 
 ------------------------------------------------------------------------------------------------------------------
-### TossBenefitTab
-"Toss" App의 헤택 Tab을 구현해보았습니다.
-
-https://user-images.githubusercontent.com/120432007/230868840-5e4121e7-aedd-45e3-9ebf-d24b9e0e00bf.mov
-
-------------------------------------------------------------------------------------------------------------------
 # Intermediate
+- Basic 단계에서 만들어놓은 App들에 Navigation, Modality를 이용하여 기능을 추가한 App입니다.
+- MVC Pattern으로 만들어진 App들을 MVVM으로 리펙토링을 진행하였습니다.
+- 복잡한 디자인이 도입됨에 따라 UICollectionViewDataSource, UICollectionViewFlowLayout으로 이루어진 List와 Grid를 UICollectionViewDiffableDataSource, UICollectionViewCompositionalLayout, Snapshot의 구성으로 리펙토링을 진행하였습니다.
 ### AppleFramework_Modality
 Grid형태의 AppleFramework만 보여주던 App에 Modality 기능을 넣어 해당 Framework에 대한 설명 View를 표시하게 추가함.
 동시에 설명 View에서 "Learn More" 버튼을 클릭 시 App에 연동해놓은 Safari로 연결하여 해당 Framework의 내용에 대해 더 상세히 설명이 되어있는 페이지로 연결함.
@@ -102,7 +102,12 @@ https://user-images.githubusercontent.com/120432007/230853487-7e138e34-82f3-487d
 
 ------------------------------------------------------------------------------------------------------------------
 # Upper Intermediate
+### TossBenefitTab
+"Toss" App의 헤택 Tab을 구현해보았습니다.
 
+https://user-images.githubusercontent.com/120432007/230868840-5e4121e7-aedd-45e3-9ebf-d24b9e0e00bf.mov
+
+------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------
 # Advanced
