@@ -40,30 +40,39 @@ https://user-images.githubusercontent.com/120432007/230849292-28dcdeb2-8cf9-423b
 
 ------------------------------------------------------------------------------------------------------------------
 ### SpotifyPayWall
-"Spotify" App의 구매 페이지를 비슷하게 구현하였습니다.
+"Spotify" App의 구매 Page를 구현하였습니다.
 
 https://user-images.githubusercontent.com/120432007/230857325-fe28876b-2a9b-4bcb-8802-cc74ae920475.mp4
 
 ------------------------------------------------------------------------------------------------------------------
 ### NRCOnboarding
-"NikeRunningClub" App의 Onboarding을 비슷하게 구현하였습니다.
+"NikeRunningClub" App의 Onboarding Page를 구현하였습니다.
 
 https://user-images.githubusercontent.com/120432007/230858091-b64e6659-8ee5-49b8-acac-ab7347aa139b.mov
 
 ------------------------------------------------------------------------------------------------------------------
 ### GithubUserSearch
-Github API를 이용하여 Github 사용자 Login ID를 검색하는 기능을 구현해보았습니다.
+Github API를 이용하여 Github 사용자 Login ID를 검색하는 기능을 구현하였습니다.
 
 https://user-images.githubusercontent.com/120432007/230859329-dc475990-bd47-4443-a2f5-d637dc391387.mp4
 
 ------------------------------------------------------------------------------------------------------------------
 ### GithubUserProfile
-Github API와 Kingfisher PKG를 이용하여 Github 사용자의 Login Name을 검색하여 해당 사용자의 Profile을 불러오는 기능을 구현해보았습니다.
+Github API와 "Kingfisher" PKG를 이용하여 Github 사용자의 Login Name을 검색하여 해당 사용자의 Profile을 불러오는 기능을 구현해보았습니다.
 
 https://user-images.githubusercontent.com/120432007/230860567-60811886-9bd7-4d0c-adee-e31e622e4240.mp4
 
 ------------------------------------------------------------------------------------------------------------------
+### InstaSearchView
+"Instagram" App의 Search View를 구현하였습니다.
 
+https://user-images.githubusercontent.com/120432007/230865054-8f35aad0-05fc-4af2-b3b7-15e79a3f12ea.mov
+
+------------------------------------------------------------------------------------------------------------------
+### ChatList
+Chat App들으 기본 구성이 대화방 List를 구현하였습니다.
+
+https://user-images.githubusercontent.com/120432007/230865935-656c8966-48fd-47be-b9d4-cdf6062a06e7.mov
 
 ------------------------------------------------------------------------------------------------------------------
 # Intermediate
