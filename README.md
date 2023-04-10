@@ -77,8 +77,14 @@ https://user-images.githubusercontent.com/120432007/230865935-656c8966-48fd-47be
 ------------------------------------------------------------------------------------------------------------------
 ### StockRank
 "Toss" App의 주식 순위 View를 구현하였습니다.
-![StockRank](https://user-images.githubusercontent.com/120432007/230867858-67e387bc-3ea1-4cf6-b03f-37bcedde7b1f.png)
 
+https://user-images.githubusercontent.com/120432007/230868395-6f87f3cb-1b93-40d6-8778-fa527ce059dc.mov
+
+------------------------------------------------------------------------------------------------------------------
+### TossBenefitTab
+"Toss" App의 헤택 Tab을 구현해보았습니다.
+
+https://user-images.githubusercontent.com/120432007/230868840-5e4121e7-aedd-45e3-9ebf-d24b9e0e00bf.mov
 
 ------------------------------------------------------------------------------------------------------------------
 # Intermediate
